@@ -22,8 +22,9 @@ h1{
 .text-content{
     display: flex;
     justify-content: space-evenly;
-    padding-left: 2.5em;
-    padding-right: 2.5em;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
     padding-bottom: 1em;
     font-size: 20px;
 }
@@ -33,11 +34,13 @@ h1{
     justify-content: center;
     padding-bottom: 1.5em;
     color: white;
+    font-size: 20px;
 }
 
 .list{
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
 }
 
@@ -50,10 +53,11 @@ h1{
 .list li{
     display: flex;
     justify-content: center;
+    text-align: center;
     font-size: 17px;
     padding-bottom: 0.5em;
-    padding-left: 2.5em;
-    padding-right: 2.5em;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .list img{
@@ -65,7 +69,17 @@ h1{
     display: flex;
 }
 
-#project-image{
+.project-image{
     padding-top: 1em;
     padding-bottom: 1em;
+    max-width: 100%;
+    max-height: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+    box-sizing: border-box;
+}
+
+.project1-image{
+    width: 960px auto; 
+    height: 450.5px auto;
 }
