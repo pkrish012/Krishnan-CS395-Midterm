@@ -14,3 +14,5 @@ For the Projects tab, I used <a href=https://css-tricks.com/snippets/css/a-guide
 Finally, using the same techniques as above, I styled the Contact Me page accordingly.
   
 Finally, I added what I felt was an appropriate banner image which is the same across pages, with a centered title, and deployed the application on GitHub pages.
+
+The deployed website can be found here: <a href="https://pkrish012.github.io/Krishnan-CS395-Midterm/Krishnan-CS395-Midterm/index.html"> Go to my website</a>
